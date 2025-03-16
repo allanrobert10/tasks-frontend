@@ -30,3 +30,6 @@ build/
 ### VS Code ###
 .vscode/
 **/.DS_Store
+
+### Ignorar Tomcat ###
+apache-tomcat-9.0.100/
